@@ -9,7 +9,7 @@ A collection of lightweight frameworks and applications engineered to deliver cr
 ### [WhumbleZone Presentation Suite](https://whumblezone.com)
 > **Stop screen-sharing videos over heavy meeting clients. Sync the source player natively.**
 
-![WhumbleZone Corporate Overview](https://whumblezone.com/og-image.png)
+![WhumbleZone Corporate Overview](https://whumblezone.com/opengraph-image-12gd74?67eedc6f85af4ec1)
 
 When running design sprints, product teardowns, or showing high-production marketing assets, standard screen shares look choppy, muddy, and drop frames. **WhumbleZone** avoids compression completely by syncing playback commands across native endpoints.
 
